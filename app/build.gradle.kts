@@ -11,8 +11,8 @@ android {
         applicationId = "com.callnotes.app"
         minSdk = 26
         targetSdk = 34
-        versionCode = 1
-        versionName = "1.0"
+        versionCode = 2
+        versionName = "1.1"
     }
 
     // One fixed signing key, so new versions install over old ones without losing notes.
